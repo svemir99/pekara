@@ -1,0 +1,103 @@
+h1{
+    text-align: center;
+
+    background-color: red;
+}
+
+h2{
+    background-color: red;
+}
+
+#meni{
+    background-color: red;
+}
+
+#footer{
+    background-color: red;
+}
+
+
+#tekstmeni{
+    font-size: x-large;
+   text-align: center;
+}
+
+#futertekst{
+    font-size: x-large;
+}
+
+
+
+
+
+
+
+
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  
+
+  #onama{
+    width: 2000x;
+    height: 400px;
+   /* background-color: blueviolet;*/
+  }
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
